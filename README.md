@@ -5,7 +5,6 @@
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Installation](#installation)
-  * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
   * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
@@ -14,8 +13,9 @@
 ## Demo
 
 
-[![](https://i.imgur.com/R1g2wvC.png)]
-
+[![](https://i.imgur.com/9fx04uM.png)]
+[![](https://i.imgur.com/YKtgqS1.png)]
+[![](https://i.imgur.com/qpTliaZ.png)]
 
 
 ## Overview
