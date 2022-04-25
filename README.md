@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ## Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/Mandal-21/Flight-Price-Prediction/issues) here by including your search query and the expected result
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/yashnilapwar/FlightPricePrediction/issues) here by including your search query and the expected result
 
 ## Future Scope
 
